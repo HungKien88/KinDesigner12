@@ -25,8 +25,8 @@ sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); }
 
 
 
-// ProductsK variables
-const ProductsKItem = document.querySelectorAll("[data-ProductsK-item]");
+// Products variables
+const ProductsItem = document.querySelectorAll("[data-Products-item]");
 const modalContainer = document.querySelector("[data-modal-container]");
 const modalCloseBtn = document.querySelector("[data-modal-close-btn]");
 const overlay = document.querySelector("[data-overlay]");
@@ -37,30 +37,30 @@ const modalTitle = document.querySelector("[data-modal-title]");
 const modalText = document.querySelector("[data-modal-text]");
 
 // modal toggle function
-const ProductsKModalFunc = function () {
+const ProductKModalFunc = function () {
   modalContainer.classList.toggle("active");
   overlay.classList.toggle("active");
 }
 
 // add click event to all modal items
-for (let i = 0; i < ProductsKItem.length; i++) {
+for (let i = 0; i < ProductsItem.length; i++) {
 
-  ProductsKItem[i].addEventListener("click", function () {
+  ProductsItem[i].addEventListener("click", function () {
 
-    modalImg.src = this.querySelector("[data-ProductsK-avatar]").src;
-    modalImg.alt = this.querySelector("[data-ProductsK-avatar]").alt;
-    modalTitle.innerHTML = this.querySelector("[data-ProductsK-title]").innerHTML;
-    modalText.innerHTML = this.querySelector("[data-ProductsK-text]").innerHTML;
+    modalImg.src = this.querySelector("[data-Products-avatar]").src;
+    modalImg.alt = this.querySelector("[data-Products-avatar]").alt;
+    modalTitle.innerHTML = this.querySelector("[data-Products-title]").innerHTML;
+    modalText.innerHTML = this.querySelector("[data-Products-text]").innerHTML;
 
-    ProductsKModalFunc();
+    ProductsModalFunc();
 
   });
 
 }
 
 // add click event to modal close button
-modalCloseBtn.addEventListener("click", ProductsKModalFunc);
-overlay.addEventListener("click", ProductsKModalFunc);
+modalCloseBtn.addEventListener("click", ProductsModalFunc);
+overlay.addEventListener("click", ProductsModalFunc);
 
 
 
