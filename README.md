@@ -1,7 +1,7 @@
 
-## Cover
+## Cover ✌️🇻🇳😂 Wellcome to Kin 🪷🏡 ☘️
 
-![ Personal-Portfolio-Kien ]( ./img/ProjectsK/DownloadCV/1.webp "Đặng Hùng Kiên")
+![ Personal-Portfolio-Kien ]( ./img/ProjectsK/"Đặng Hùng Kiên")
 
 
 ## Remuse-Kin-V2
