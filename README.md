@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 
 ##  🇻🇳Wellcome to Kin 🏡😂
+=======
+## Cover ✌️🇻🇳😂 Wellcome to KIZ 🪷🏡 ☘️
+>>>>>>> a880529 ( new)
 
 ![ Personal-Portfolio-Kien ]( ./img/ProjectsK/CRM/Cover/Cover%20CRM.png "Đặng Hùng Kiên")
 
