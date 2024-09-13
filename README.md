@@ -1,18 +1,16 @@
 
 
-## 😂 Wellcome to KizCat🇻🇳🏡 
+##  🇻🇳Wellcome to Kin 🏡😂
 
 ![ Personal-Portfolio-Kien ]( ./img/ProjectsK/CRM/Cover/Cover%20CRM.png "Đặng Hùng Kiên")
 
 
 ## Remuse-Kin-V2
 
-- Name:       Personal-Portfolio-Kien.
+- Name   :    Personal-Portfolio-Kien.
 - Version:    1.0.0
-- Developer:  Hùng Kiên
-- Designer:   Kiên Đặng
-- Auther:     Đặng Hùng Kiên
-- Web : https://hungkien88.github.io/Remuse-Kin-V2/
+- Auther :    Đặng Hùng Kiên
+- Web    :    https://hungkien88.github.io/Remuse-Kin-V2/
 
 
 
@@ -23,6 +21,6 @@
 
 ## Contact to Kin
 
-- Facebook:   d26h12k
-- Mail:       kienbadao04@gmail.com 
-- Tel:        +8434.947.3779
+- Facebook:   Đặng Hùng Kiên
+- Mail    :   kienbadao04@gmail.com 
+- Tel     :   +8434.947.3779
