@@ -1,5 +1,6 @@
 
-## ✌️🇻🇳😂 Wellcome to KIZ 🪷🏡 ☘️
+
+## 😂 Wellcome to KizCat🇻🇳🏡 
 
 ![ Personal-Portfolio-Kien ]( ./img/ProjectsK/CRM/Cover/Cover%20CRM.png "Đặng Hùng Kiên")
 
