@@ -1,10 +1,11 @@
 /* -------------------------------------------
-Wellcome to Kin' Portfolio
 
-Name:       Portfolio of Đặng Hùng Kiên
-Version:    1.0
-Developer:  Kien Designer
-Web:  https://hungkien88.github.io
+Wellcome to Kin =))
+
+Name        :    Portfolio of Đặng Hùng Kiên
+Version     :    1.0
+Developer   :    Kin Designer
+Web         :    https://hungkien88.github.io
 
 ------------------------------------------- */
 

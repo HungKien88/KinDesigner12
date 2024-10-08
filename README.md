@@ -1,28 +1,25 @@
 
-<<<<<<< HEAD
 
-##  🇻🇳Wellcome to Kin 🏡😂
-
-
-![ Personal-Portfolio-Kien ]( ./img/ProjectsK/CRM/Cover/Cover%20CRM.png "Đặng Hùng Kiên")
+##  🇻🇳Wellcome to Portfolio of Kin 🏡😂
 
 
-## Remuse-Kin-V2
+![ Portfolio of Kin]( ./img/ProjectsK/Contact/Cover%20Kinn1.png "Đặng Hùng Kiên")
 
-- Name   :    Personal-Portfolio-Kien.
+
+## Portfolio of Kin
+
+- Name   :    Portfolio of Kin
 - Version:    1.0.0
-- Auther :    Đặng Hùng Kiên
-- Web    :    https://hungkien88.github.io/Remuse-Kin-V2/
-
+- Auther :    Kin Design
+- Web    :    https://hungkien88.github.io
 
 
 ## Description
 
-🎯 Remuse-Kin-V2 a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+🎯 Portfolio of Kin a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
 ## Contact to Kin
 
-- Facebook:   Đặng Hùng Kiên
-- Mail    :   kienbadao04@gmail.com 
-- Tel     :   +8434.947.3779
+- Mail    :   netlienminh247@gmail.com
+
